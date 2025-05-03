@@ -1,0 +1,183 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ZuMarketing - Best SMM Panel in Pakistan for Facebook, Instagram, YouTube, TikTok services. Pay via JazzCash & EasyPaisa.">
+  <meta name="keywords" content="SMM Panel Pakistan, JazzCash SMM Panel, EasyPaisa SMM Services, Buy Followers, Buy Likes, YouTube Views">
+  <meta name="author" content="Shahzaib Imran">
+  <title>ZuMarketing - Best SMM Panel in Pakistan</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }header {
+  background-color: #1a73e8;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #1a73e8;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h2 {
+  color: #1a73e8;
+  margin-bottom: 20px;
+}
+
+.service {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 5px solid #1a73e8;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-left: 5px solid #1a73e8;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+form input, form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #1a73e8;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #155ab6;
+}
+
+footer {
+  background-color: #1a73e8;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  nav ul li {
+    margin: 10px 0;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>ZuMarketing</h1>
+      <p>Boost your social media presence with real and fast services</p>
+    </div>
+  </header>  <nav>
+    <ul>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#deposit">Deposit</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>  <section id="services">
+    <h2>Our SMM Services</h2>
+    <div class="service">
+      <h3>Instagram Followers</h3>
+      <p>High-quality followers. Price: PKR 250/1K</p>
+    </div>
+    <div class="service">
+      <h3>YouTube Subscribers</h3>
+      <p>Guaranteed delivery. Price: PKR 300/1K</p>
+    </div>
+    <div class="service">
+      <h3>TikTok Views</h3>
+      <p>Instant delivery. Price: PKR 150/1K</p>
+    </div>
+  </section>  <section id="deposit">
+    <h2>Deposit Funds</h2>
+    <p>Only deposit using EasyPaisa or JazzCash.</p>
+    <p><strong>Recipient Name:</strong> Shahzaib Imran</p>
+    <p><strong>JazzCash Number:</strong> 03297110176</p>
+    <form action="#" method="POST">
+      <label for="amount">Amount (PKR):</label>
+      <input type="number" id="amount" name="amount" required>
+      <label for="method">Payment Method:</label>
+      <select id="method" name="method" required>
+        <option value="jazzcash">JazzCash</option>
+        <option value="easypaisa">EasyPaisa</option>
+      </select>
+      <label for="txn">Transaction ID:</label>
+      <input type="text" id="txn" name="txn" required>
+      <button type="submit">Submit for Approval</button>
+    </form>
+    <p><strong>Note:</strong> All deposits will be manually approved by the admin within 24 hours.</p>
+  </section>  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>WhatsApp: 03297110176</p>
+    <p>Email: support@zumarketing.pk</p>
+  </section>  <footer>
+    <p>&copy; 2025 ZuMarketing. All rights reserved.</p>
+  </footer>
+</body>
+<!-- AdSense Ad Slot -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"
+     data-ad-slot="1234567890"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</html>
